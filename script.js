@@ -172,4 +172,3 @@ while (annelerGunu.getDay() != 0) {
 annelerGunu.setDate(annelerGunu.getDate() + 7);
 console.log(annelerGunu);
 */
-
