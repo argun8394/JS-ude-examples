@@ -2,10 +2,10 @@
 
 // ** Global Scopes
 var name = 'argun';
-var age = 25;
+var age = 30;
 
 function logName() {
-    var name = 'Ada';
+    var name = "Berra";
     var age = '12';
     console.log('function scope', name, age);
 }
