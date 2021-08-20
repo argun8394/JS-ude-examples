@@ -31,7 +31,7 @@ console.log(name);
 console.log('*********************');
 
 if (true) {
-    var model = 'Opel';
+    var model = 'Hyundai';
     let year = 2016;
     const color = 'white';
     console.log('block scope', model, year, color);
